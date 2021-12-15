@@ -1,0 +1,8 @@
+C:\Users\50a50\OneDrive\دسکتاپ\C#\Projects\C# project\firstproject\firstproject\bin\Debug\firstproject.exe.config
+C:\Users\50a50\OneDrive\دسکتاپ\C#\Projects\C# project\firstproject\firstproject\bin\Debug\firstproject.exe
+C:\Users\50a50\OneDrive\دسکتاپ\C#\Projects\C# project\firstproject\firstproject\bin\Debug\firstproject.pdb
+C:\Users\50a50\OneDrive\دسکتاپ\C#\Projects\C# project\firstproject\firstproject\obj\Debug\firstproject.csproj.AssemblyReference.cache
+C:\Users\50a50\OneDrive\دسکتاپ\C#\Projects\C# project\firstproject\firstproject\obj\Debug\firstproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\50a50\OneDrive\دسکتاپ\C#\Projects\C# project\firstproject\firstproject\obj\Debug\firstproject.csproj.CoreCompileInputs.cache
+C:\Users\50a50\OneDrive\دسکتاپ\C#\Projects\C# project\firstproject\firstproject\obj\Debug\firstproject.exe
+C:\Users\50a50\OneDrive\دسکتاپ\C#\Projects\C# project\firstproject\firstproject\obj\Debug\firstproject.pdb
